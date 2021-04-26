@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BD_Auth", "BD_Auth\BD_Auth.csproj", "{7FA1C996-5710-4674-BEDD-1E0C35F4F515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA1C996-5710-4674-BEDD-1E0C35F4F515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA1C996-5710-4674-BEDD-1E0C35F4F515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA1C996-5710-4674-BEDD-1E0C35F4F515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA1C996-5710-4674-BEDD-1E0C35F4F515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AF59483-2925-412E-BB82-CF68B43C5428}
+	EndGlobalSection
+EndGlobal
